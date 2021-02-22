@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/superbolt/static/css/main.689cd15c.chunk.css",
+    "main.js": "/superbolt/static/js/main.6018b0da.chunk.js",
+    "main.js.map": "/superbolt/static/js/main.6018b0da.chunk.js.map",
+    "runtime-main.js": "/superbolt/static/js/runtime-main.a6dba3ad.js",
+    "runtime-main.js.map": "/superbolt/static/js/runtime-main.a6dba3ad.js.map",
+    "static/js/2.6f5fa74f.chunk.js": "/superbolt/static/js/2.6f5fa74f.chunk.js",
+    "static/js/2.6f5fa74f.chunk.js.map": "/superbolt/static/js/2.6f5fa74f.chunk.js.map",
+    "static/js/3.a84dffe1.chunk.js": "/superbolt/static/js/3.a84dffe1.chunk.js",
+    "static/js/3.a84dffe1.chunk.js.map": "/superbolt/static/js/3.a84dffe1.chunk.js.map",
+    "index.html": "/superbolt/index.html",
+    "static/css/main.689cd15c.chunk.css.map": "/superbolt/static/css/main.689cd15c.chunk.css.map",
+    "static/js/2.6f5fa74f.chunk.js.LICENSE.txt": "/superbolt/static/js/2.6f5fa74f.chunk.js.LICENSE.txt",
+    "static/media/1.addb45bc.jpg": "/superbolt/static/media/1.addb45bc.jpg",
+    "static/media/10.497735a7.jpg": "/superbolt/static/media/10.497735a7.jpg",
+    "static/media/11.f252b161.jpg": "/superbolt/static/media/11.f252b161.jpg",
+    "static/media/12.cc152653.jpg": "/superbolt/static/media/12.cc152653.jpg",
+    "static/media/13.5c80186b.jpg": "/superbolt/static/media/13.5c80186b.jpg",
+    "static/media/2.7a009aaa.jpg": "/superbolt/static/media/2.7a009aaa.jpg",
+    "static/media/3.f31f6eb3.jpg": "/superbolt/static/media/3.f31f6eb3.jpg",
+    "static/media/4.d1afdef3.jpg": "/superbolt/static/media/4.d1afdef3.jpg",
+    "static/media/5.f6bddaa2.jpg": "/superbolt/static/media/5.f6bddaa2.jpg",
+    "static/media/6.05ec4aba.jpg": "/superbolt/static/media/6.05ec4aba.jpg",
+    "static/media/7.2c080aab.jpg": "/superbolt/static/media/7.2c080aab.jpg",
+    "static/media/8.38ddc2fd.jpg": "/superbolt/static/media/8.38ddc2fd.jpg",
+    "static/media/9.77c63dc9.jpg": "/superbolt/static/media/9.77c63dc9.jpg",
+    "static/media/logo.6ce24c58.svg": "/superbolt/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6dba3ad.js",
+    "static/js/2.6f5fa74f.chunk.js",
+    "static/css/main.689cd15c.chunk.css",
+    "static/js/main.6018b0da.chunk.js"
+  ]
+}
